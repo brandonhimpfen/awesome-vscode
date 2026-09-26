@@ -42,6 +42,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) – Code formatter supporting multiple languages.
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) – Launch a local development server with live reload.
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) – Colorizes matching brackets.
+ - [Darkmoon](https://marketplace.visualstudio.com/items?itemName=Darkmoon.darkmoon-vscode) – Autonomous AI penetration-testing extension (open-source, GPLv3) that runs security scans from VS Code; 50 specialist agents and 140+ tools over MCP.
 
 ## Language-Specific Extensions
 
