@@ -61,6 +61,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) – Autocompletes filenames.
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) – Spelling checker for source code.
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) – Highlights TODO comments in files.
+- [Mel – the agentic terminal](https://marketplace.visualstudio.com/items?itemName=Mel.openmel) – The agentic team for coding: a team of AI coding agents with configurable approvals, from the Mel terminal.
 
 ## Version Control & Git
 
